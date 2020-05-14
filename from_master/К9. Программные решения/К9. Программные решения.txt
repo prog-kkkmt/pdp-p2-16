@@ -1,0 +1,41 @@
+Преддипломная практика. 
+Преподаватель: Гусятинер Л.Б., МГОТУ ККМТ, 07.05.2020
+П2-16
+К-9. Консультация по имеющимся программным решениям
+
+Прежде, чем разрабатывать новое ПО, нужно убедиться, что это по каким-то критериям
+выгодней для автоматизации бизнеса. 
+
+Пример поиска имеющегося программного обеспечения по теме "Автоматизация гостиницы"
+
+1. Обзор
+https://ozlocks.ru/statii/programmy_bronirovaniya_dlya_gostinic/
+
+2. Учетные программы гостиницы, отеля
+https://hotelstartup.ru/services/information-technology/the-hotels-programs/
+
+3. Автоматизация управления гостиницей. Программа HOTEL.
+http://www.intel-sfera.ru/development/solutions/hotel
+
+4. Logus HMS (Hospitality Management System)
+Система управления отелем
+https://www.librahospitality.com/logus_hms/
+
+5. 1С:Предприятие 8. Отель
+https://solutions.1c.ru/catalog/hotel/features
+
+6. Гостиничная система автоматизации Shelter
+https://www.ucs.ru/products/shelter/
+
+7. Oracle Hospitality Suite8
+https://www.hrsinternational.com/russia/ru/
+
+8. АСУ ЭДЕЛЬВЕЙС
+https://edelweiss.edelink.ru/
+
+Приложения.
+Файлы с рецензиями (ошибки при анализе программных решений)
+К9-Бакайса Автосалон.pdf
+К9-Конопада Игра.pdf
+К9-Моисеев ДетСад.pdf
+К9-Панкратов АТС.pdf

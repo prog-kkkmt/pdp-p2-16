@@ -1,0 +1,137 @@
+object Form1: TForm1
+  Left = 391
+  Height = 328
+  Top = 294
+  Width = 563
+  Caption = 'Form1'
+  ClientHeight = 328
+  ClientWidth = 563
+  LCLVersion = '1.8.4.0'
+  object Panel3: TPanel
+    Left = 8
+    Height = 312
+    Top = 8
+    Width = 550
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    ClientHeight = 312
+    ClientWidth = 550
+    TabOrder = 2
+    Visible = False
+    object Button3: TButton
+      Left = 24
+      Height = 25
+      Top = 272
+      Width = 75
+      Caption = 'Leave'
+      OnClick = Button3Click
+      TabOrder = 0
+    end
+    object Button4: TButton
+      Left = 344
+      Height = 25
+      Top = 256
+      Width = 152
+      Caption = 'Start'
+      OnClick = Button1Click
+      TabOrder = 1
+    end
+    object ListBox2: TListBox
+      Left = 320
+      Height = 240
+      Top = 8
+      Width = 196
+      ItemHeight = 0
+      TabOrder = 2
+    end
+  end
+  object Panel1: TPanel
+    Left = 10
+    Height = 312
+    Top = 8
+    Width = 550
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    ClientHeight = 312
+    ClientWidth = 550
+    TabOrder = 0
+    object Edit1: TEdit
+      Left = 192
+      Height = 23
+      Top = 112
+      Width = 160
+      TabOrder = 0
+      Text = 'Nickname'
+    end
+    object Button1: TButton
+      Left = 232
+      Height = 25
+      Top = 176
+      Width = 75
+      Caption = 'Connect'
+      OnClick = Button1Click
+      TabOrder = 1
+    end
+    object Button5: TButton
+      Left = 464
+      Height = 25
+      Top = 280
+      Width = 75
+      Caption = 'Exit'
+      OnClick = Button5Click
+      TabOrder = 2
+    end
+  end
+  object Panel2: TPanel
+    Left = 8
+    Height = 312
+    Top = 8
+    Width = 550
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    ClientHeight = 312
+    ClientWidth = 550
+    TabOrder = 1
+    Visible = False
+    object Edit2: TEdit
+      Left = 24
+      Height = 23
+      Top = 32
+      Width = 160
+      TabOrder = 0
+      Text = 'Room Name'
+    end
+    object Button2: TButton
+      Left = 40
+      Height = 25
+      Top = 80
+      Width = 123
+      Caption = 'Create Room'
+      OnClick = Button2Click
+      TabOrder = 1
+    end
+    object ListBox1: TListBox
+      Left = 280
+      Height = 264
+      Top = 24
+      Width = 236
+      ItemHeight = 0
+      TabOrder = 2
+    end
+    object Button6: TButton
+      Left = 24
+      Height = 25
+      Top = 280
+      Width = 75
+      Caption = 'Disconnect'
+      OnClick = Button6Click
+      TabOrder = 3
+    end
+    object Button7: TButton
+      Left = 112
+      Height = 25
+      Top = 280
+      Width = 75
+      Caption = 'Exit'
+      OnClick = Button5Click
+      TabOrder = 4
+    end
+  end
+end
